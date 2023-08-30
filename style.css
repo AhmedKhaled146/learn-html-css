@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+nav{
+    background-color: blue;
+    margin: 0px;
+}
+header{
+    background-color: yellowgreen;
+}
+footer{
+    background-color: tomato;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+}
+li{
+    float: left;
+    padding: 10px;
+}
+h3{
+    margin: 0px;
+}
